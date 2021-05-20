@@ -1,5 +1,7 @@
+ihu
+use this as base for opensource program
 <quote>”Don't cry because it's over, smile because it happened.”
-<author>Albert Einstein
+<author>Albert namn 
 
 <quote>“Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.”
 <author>Elbert Hubbard
